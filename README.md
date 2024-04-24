@@ -18,3 +18,11 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 6. Press the auto-play button to let the game play automatically.
 
 Enjoy playing Rock Paper Scissors!
+
+
+## Screenshots
+IMAGE 1:
+ ![Game Page Before Play](game_appearance/gamePageBeforePlay.png)
+
+IMAGE 2 : 
+![Game Page After Play](game_appearance/gamePageAfterPlay.png)
