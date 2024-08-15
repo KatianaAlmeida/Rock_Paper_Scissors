@@ -15,7 +15,7 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 3. Use keyboard shortcuts (p for paper, r for rock, s for scissors) for quick moves.
 4. The game will determine the winner, loser, or if it's a tie.
 5. Use the reset score button to start over.
-6. Press the auto-play button to let the game play automatically.
+6. Press the auto-play button to let the game play automatically. 
 
 Enjoy playing Rock Paper Scissors!
 
